@@ -1,31 +1,28 @@
-## Hi, I'm Kevin 👋
+# Hi, I'm Kevin
 
-Hardware Engineering Lead working on **high-density compute and power**: multi-kW systems, racks, and mixed-signal boards. Before that, a decade of consumer, enterprise and military electronics, taking designs from product definition to millions of users.
+Hardware Engineering Lead and founder of [Kismet Labs](https://kismetlabs.xyz). I design multi-kW compute systems, racks, and mixed-signal hardware, and have spent the last decade shipping consumer, enterprise, and military electronics at Block, Apple, and Microsoft. Into high-density compute and power, cooling, bring-up, and homelab infrastructure.
 
-🔌 Shipped hardware at **Block** (Bitkey, Square, Bitcoin mining systems), **Apple** (AirPods, HomePod) and **Microsoft** (HoloLens 2, IVAS)
-🎓 Stanford · Texas
-🧪 Run **Kismet Labs**, my consulting practice, and a Proxmox / TrueNAS / Ceph / Kubernetes homelab
-🧭 Operating principle: life is short, so I overshoot a little and get there faster
+## Hardware I Built
 
-### Things I've worked on
+**Compute & power**
 
-| | |
-|---|---|
-| ⛏️ **Bitcoin mining systems** | Three generations of ASIC blade motherboards and network cards for air, oil and liquid-cooled miners |
-| 🔑 **Bitkey** | Hardware wallet for simple, secure bitcoin self-custody |
-| 🥽 **HoloLens 2 / IVAS** | Mixed-reality headset hardware: cameras, displays, EMI, power integrity |
-| 🔊 **HomePod, AirPods (3 generations)** | Main logic boards, SiP, sensing, charging and acoustics |
+- ⛏️ [Bitcoin miners](https://proto.xyz): Three generations of ASIC blade motherboards and network cards for air, oil, and liquid-cooled miners, in partnership with CoreWeave and Core Scientific.
+- 🔑 [Bitkey](https://bitkey.build): Hardware wallet, mobile app, and recovery tools for simple, secure bitcoin self-custody.
 
-### Tools I reach for
+**Consumer & wearables**
 
-**Hardware:** Altium · Allegro · KiCad · LTspice · Keysight ADS · SolidWorks · STM32
-**Software / infra:** Python · Linux · Docker · Ansible · Terraform · Prometheus · Grafana · Proxmox · Ceph · Kubernetes · Astro
+- 🔊 [HomePod](https://www.apple.com/newsroom/2023/01/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence/): Main logic board, capacitive sensing, power, and acoustics work for the second-generation HomePod.
+- 🎧 [AirPods, AirPods 2, AirPods Pro](https://www.apple.com/airpods-pro/): Three generations of contributions across logic boards, SiP, Bluetooth SoC, battery, and sensing.
+- 🥽 [HoloLens 2](https://www.cnet.com/tech/mobile/hololens-2-hands-on-this-feels-like-practical-magic/): Mixed-reality headset hardware: cameras, displays, EMI, and power integrity.
+- 🪖 [IVAS](https://en.wikipedia.org/wiki/Integrated_Visual_Augmentation_System): Augmented-reality headset for the US Army, built with Anduril and Microsoft.
 
-### Currently
+## For the Fun of It
 
-- 🏗️ Writing up my homelab build (Proxmox, LXC, Beelink) on the [Kismet Labs blog](https://kismetlabs.xyz/blog/)
-- 🤝 Advising and consulting on compute and power hardware through [Kismet Labs](https://kismetlabs.xyz)
+- 🏠 Homelab on Proxmox, TrueNAS, Ceph, and Kubernetes, written up on the [Kismet Labs blog](https://kismetlabs.xyz/blog/).
+- 🌐 [kismetlabs.xyz](https://kismetlabs.xyz): My site, built with Astro and Tailwind and hosted on Cloudflare Pages.
 
-### Find me
+## Tools
 
-🌐 [kismetlabs.xyz](https://kismetlabs.xyz) · 💼 [LinkedIn](https://linkedin.com/in/kpham123) · ✉️ kp@kismetlabs.xyz
+Altium, Allegro, KiCad, LTspice, Keysight ADS, SolidWorks, STM32, Python, Linux, Docker, Ansible, Terraform, Prometheus, Grafana.
+
+Feel free to reach out on kp@kismetlabs.xyz or [LinkedIn](https://linkedin.com/in/kpham123).
