@@ -6,7 +6,7 @@ Hardware Engineering Lead and founder of [Kismet Labs](https://kismetlabs.xyz). 
 
 **Compute & power**
 
-- ⛏️ [Bitcoin miners](https://proto.xyz): Three generations of ASIC blade motherboards and network cards for air, oil, and liquid-cooled miners, in partnership with CoreWeave and Core Scientific.
+- ⛏️ [Bitcoin miners](https://proto.xyz): Three generations of custom ASIC motherboards for air, oil, and liquid-cooled miners, in partnership with CoreWeave and Core Scientific.
 - 🔑 [Bitkey](https://bitkey.build): Hardware wallet, mobile app, and recovery tools for simple, secure bitcoin self-custody.
 
 **Consumer & wearables**
